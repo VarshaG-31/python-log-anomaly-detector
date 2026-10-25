@@ -1,0 +1,6 @@
+2026-10-25 11:00:01 INFO Database started
+2026-10-25 11:00:05 ERROR Database connection failed
+2026-10-25 11:00:06 ERROR Database connection failed
+2026-10-25 11:00:07 ERROR Database connection failed
+2026-10-25 11:00:10 WARNING Database response slow
+2026-10-25 11:00:15 CRITICAL Database service stopped

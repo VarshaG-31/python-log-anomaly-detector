@@ -1,0 +1,8 @@
+2026-10-25 10:00:01 INFO User logged in
+2026-10-25 10:00:05 INFO Product added to cart
+2026-10-25 10:00:10 ERROR Database connection failed
+2026-10-25 10:00:11 ERROR Database connection failed
+2026-10-25 10:00:12 ERROR Database connection failed
+2026-10-25 10:00:15 WARNING Slow server response
+2026-10-25 10:00:20 CRITICAL Server connection lost
+2026-10-25 10:00:25 INFO User logged out
